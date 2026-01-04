@@ -1,0 +1,5 @@
+# Real-Debrid 优化分流 (全直连模式)
+DOMAIN-SUFFIX,real-debrid.com,DIRECT
+DOMAIN-SUFFIX,rd-api.com,DIRECT
+DOMAIN-KEYWORD,download.real-debrid.com,DIRECT
+DOMAIN-KEYWORD,rdblz,DIRECT
