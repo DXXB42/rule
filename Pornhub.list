@@ -1,0 +1,5 @@
+# Pornhub 分流规则
+DOMAIN-SUFFIX,pornhub.com,美国节点
+DOMAIN-SUFFIX,phncdn.com,美国节点
+DOMAIN-SUFFIX,phprcdn.com,美国节点
+DOMAIN-SUFFIX,pornhubpremium.com,美国节点
