@@ -1,5 +1,5 @@
-#Pornhub
+#Pornhub 分流规则
 DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhub.net
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,phprcdn.com
 DOMAIN-SUFFIX,pornhubpremium.com
-DOMAIN-KEYWORD,pornhub
