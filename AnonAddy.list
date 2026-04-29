@@ -1,0 +1,5 @@
+#addy.io
+DOMAIN,app.addy.io,Proxy
+DOMAIN-SUFFIX,addy.io,Proxy
+DOMAIN-SUFFIX,anonaddy.com,Proxy
+DOMAIN-SUFFIX,anonaddy.me,Proxy
